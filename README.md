@@ -1,3 +1,4 @@
+<img src="https://imagetolink.com/ib/eh6dD9hwGK.jpg">
 # Hey ✋, I am <a href="https://www.linkedin.com/in/sharanbasava-bhushetty-89104a263/" target="_blank">SHARANBASAVA</a>. Welcome to my Profile</a>✌️
 
 <b>I'm tranee in Kodnest and BCA Graduate.</b><br>
@@ -28,6 +29,7 @@ I am a self-learner and a WEB🔗 enthusiast. I'm interested in reaching people�
 <h3>✨Programming Languages🪄</h3>
  <p align="center">
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
+ <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
  </p>
  <hr>
 <h3>💫Web Development🪄</h3>
@@ -62,7 +64,7 @@ I am a self-learner and a WEB🔗 enthusiast. I'm interested in reaching people�
 <b><h4>📉Github Stats</h4>
 <p align = "center">
 <img width="55.79%" height=200 src="https://github-readme-stats.vercel.app/api?username=sharanbasava-bhushetty&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&line_height=20&bg_color=150220"/>&nbsp&nbsp
-<img width="40%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanbasava-bhushetty&langs_count=6&layout=compact&bg_color=150220&hide_border=true" />
+<img width="40%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanbasava-bhushetty&langs_count=6&layout=compact&bg_color=&hide_border=true" />
 </p>
 
 <hr>
